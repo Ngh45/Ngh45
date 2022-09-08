@@ -1,4 +1,4 @@
-<img style=”margin: 10px” src=”https://thumbs.gfycat.com/RemarkableSnappyFallowdeer-size_restricted.gif" alt=”React” height=”50" />
+<img src='https://thumbs.gfycat.com/RemarkableSnappyFallowdeer-size_restricted.gif' alt="banner"></img>
 <h1 align="center">Hi 👋, I'm Nighaban Hasan</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
